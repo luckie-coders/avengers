@@ -1,5 +1,6 @@
 # Miembros
 
+* Nicolas Furias
 * Capitán América
 * Black panther
 * Black Widow
